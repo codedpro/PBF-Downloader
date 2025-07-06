@@ -1,6 +1,6 @@
-# Post.ir PBF File Scraper
+# PBF File Scraper
 
-This project is a Python script to download large numbers of PBF (Protocolbuffer Binary Format) files from the [post.ir](https://gnaf2.post.ir) tile server. It systematically downloads files for all combinations of two 5-digit numbers, saving them locally and logging any errors.
+This project is a Python script to download large numbers of PBF (Protocolbuffer Binary Format) files from a remote tile server. It systematically downloads files for all combinations of two 5-digit numbers, saving them locally and logging any errors.
 
 ## Features
 
