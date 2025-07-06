@@ -4,7 +4,7 @@ from tqdm import tqdm
 from itertools import product
 
 # Base URL
-BASE_URL = "https://gnaf2.post.ir/tile/layers/group/16/{}/{}.pbf"
+BASE_URL = "https://your_remote_url/tile/layers/group/16/{}/{}.pbf"
 
 # Output directory
 OUTPUT_DIR = "pbf_files"
